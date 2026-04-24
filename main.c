@@ -96,7 +96,7 @@ int main() // início do código
 {
 
     int opcao; // Variável para armazenar a escolha do usuário
-    setlocale(LC_ALL, "Portuguese") // Configura o idioma para permitir acentuação (lá da biblioteca locale.h)
+    setlocale(LC_ALL, "Portuguese"); // Configura o idioma para permitir acentuação (lá da biblioteca locale.h)
     do
     {
           // Exibe o menu principal
